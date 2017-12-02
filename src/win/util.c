@@ -32,6 +32,7 @@
 
 #include <winsock2.h>
 #include <winperf.h>
+#include <stdint.h>
 #include <iphlpapi.h>
 #include <psapi.h>
 #include <tlhelp32.h>
