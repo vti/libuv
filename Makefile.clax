@@ -1,0 +1,5 @@
+ifeq ($(WINDOWS),1)
+-include Makefile.mingw
+else
+-include Makefile
+endif
